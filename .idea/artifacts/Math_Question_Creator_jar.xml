@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Math_Question_Creator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Math_Question_Creator_jar</output-path>
+    <root id="archive" name="Math_Question_Creator.jar">
+      <element id="module-output" name="Math_Promble_Creator" />
+    </root>
+  </artifact>
+</component>
